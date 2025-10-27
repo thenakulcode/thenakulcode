@@ -1,7 +1,7 @@
 ![Banner](https://static.vecteezy.com/system/resources/previews/006/362/890/non_2x/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg)
 
 
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.4fNBO_UDYEVxM0E5T2FyJQHaFj%3Fpid%3DApi&f=1&ipt=9cdde276adc537b313bc12c1bfb07743dba48a2c389793e9a6d4ea8add773604&ipo=images"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <h1 align="center">Hi 👋, I'm Nakul Arora</h1>
 <h3 align="center">A passionate coder from India</h3>
